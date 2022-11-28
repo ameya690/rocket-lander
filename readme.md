@@ -40,9 +40,7 @@ in the file ```constants.py```.
 
 ### Controllers
 
-Code for controllers exists under ```control_and_ai```, with the DDPG having a separate package. Several _unstructured_ 
-scripts were written during prototyping and training, so apologies for messy untested code. Trained models are also
-provided in different directories.
+Code for controllers exists under ```control_and_ai```, with the DDPG having a separate package.
 
 
 
