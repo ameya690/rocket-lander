@@ -1,4 +1,4 @@
-# This Vertical Rocket Landing Simulation using OpenAI Environment for my Control Systems Class based on work by Reuben Ferrante
+# This Vertical Rocket Landing Simulation using OpenAI Environment for my Control Systems Class February 2020 based on work by Reuben Ferrante
 
 The simulation was developed in Python 3.5 and written using [OpenAI's gym environment](https://gym.openai.com/docs/). 
 Box2D was the physics engine of choice and the environment is similar to the [Lunar Lander](https://gym.openai.com/envs/LunarLander-v2/). [This](https://www.youtube.com/watch?v=4_igzo4qNmQ) is a video of the simulator in action.
